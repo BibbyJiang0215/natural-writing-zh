@@ -1,4 +1,4 @@
 interface:
-  display_name: Natural Chinese Writing
-  short_description: Make Chinese writing natural while preserving facts and voice
-  default_prompt: Use natural-writing-zh to edit the Chinese text below. Preserve facts, terminology, ownership, and dates; output only the revised text.
+  display_name: "中文自然写作"
+  short_description: "让中文表达更自然，同时保留事实、术语和作者语气"
+  default_prompt: "使用 $natural-writing-zh 润色下面的中文，保留事实、术语、责任主体、日期和格式约束；默认只输出改写后的正文。"
